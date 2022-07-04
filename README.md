@@ -1,5 +1,5 @@
 # ATZFinance (in-progress)
-#### Loan services finance application. 
+### Loan services finance application. 
 
 Java Maven web-application made with Spring and MySQL.
 
